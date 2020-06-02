@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\bin\Debug\netcoreapp3.1\Aula08Asbtracao.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula08Asbtracao\obj\Debug\netcoreapp3.1\Aula08Asbtracao.genruntimeconfig.cache
